@@ -1,0 +1,6 @@
+framework module Pods_Auto_Complete_With_TextViewTests {
+  umbrella header "Pods-Auto Complete With TextViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

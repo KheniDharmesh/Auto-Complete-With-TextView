@@ -1,0 +1,6 @@
+framework module Pods_Auto_Complete_With_TextView {
+  umbrella header "Pods-Auto Complete With TextView-umbrella.h"
+
+  export *
+  module * { export * }
+}
